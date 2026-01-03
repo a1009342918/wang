@@ -2,4 +2,5 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 bxtv.3a.ink
-https://fy.188766.xyz
+migu.188766.xyz
+www.freetv.top/migu/624878405.m3u8
