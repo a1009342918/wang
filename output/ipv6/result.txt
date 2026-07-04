@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2026-07-04 19:29:33,http://pull-hls-f26.douyinliving.com/media/stream-696107587393815378.m3u8?expire=6a50c3ab&sign=070f9c37ad3a8bb2e34edefb037983df&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-202607031804263FBA01D0DD5362E5EA3B-NVx2Sh
+2026-07-05 06:54:30,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
-CCTV-13,http://pull-hls-f26.douyinliving.com/media/stream-696107587393815378.m3u8?expire=6a50c3ab&sign=070f9c37ad3a8bb2e34edefb037983df&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-202607031804263FBA01D0DD5362E5EA3B-NVx2Sh
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-13,http://pull-hls-f26.douyinliving.com/media/stream-696107587393815378.m3u8?expire=6a50c3ab&sign=070f9c37ad3a8bb2e34edefb037983df&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-202607031804263FBA01D0DD5362E5EA3B-NVx2Sh
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 卫视频道，#genre#,#genre#
@@ -24,16 +24,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 
 体育频道，#genre#,#genre#
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-4.php
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-6.m3u8
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-10.ctv
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-2.m3u8
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-11.ctv
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-17.ctv
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-4.m3u8
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-9.m3u8
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-7.m3u8
@@ -54,16 +45,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-4.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-27.ctv
 广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-1.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-8.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-19.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-4.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-7.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-6.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-3.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-9.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-5.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-2.m3u8
-山东体育,https://t.freetv.fun/live/shan-dong-ti-yu.m3u8
 江苏体育,https://stream1.freetv.fun/jiang-su-ti-yu-1.ctv
 江苏体育,https://stream1.freetv.fun/jiang-su-ti-yu-4.ctv
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-4.ctv
@@ -90,3 +71,4 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 鹿鼎记,https://live.ottiptv.cc/yy/28265277
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 西游记,https://lbds.us.ci/26355861
+水浒传,https://live.ottiptv.cc/yy/1353873252
