@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-07 20:33:25,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-07-08 07:08:06,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -7,16 +7,21 @@ CCTV-13,http://pull-hls-f26.douyinliving.com/media/stream-696107587393815378.m3u
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 卫视频道，#genre#,#genre#
-香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
-香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
-香港卫视,https://stream1.freetv.fun/79e4d77e2f29a2ca7f7cabbbe2ee02d32a4f2f7fb91ae94d0fb9573c9f94b4ab.ctv
+香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
 香港卫视,https://stream1.freetv.fun/ae7eaf28d8610cdc1651ef6a1f7dbb24b49c5a87627d0d881330afaea37a1616.m3u8
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-11.m3u8
+香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
+香港卫视,https://stream1.freetv.fun/79e4d77e2f29a2ca7f7cabbbe2ee02d32a4f2f7fb91ae94d0fb9573c9f94b4ab.ctv
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-13.m3u8
-香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-7.m3u8
+香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-11.m3u8
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-1.m3u8
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-4.php
+四川卫视,http://b.xiongnas.top:8888/rtp/239.3.1.29:8288
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-5.m3u8
+四川卫视,http://x1x.bid:5146/rtp/239.3.1.29:8288
 
 ☘️安徽频道，#genre#,#genre#
 安徽经济生活,https://stream1.freetv.fun/an-hui-jing-ji-sheng-huo-4.ctv
@@ -29,38 +34,38 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 体育频道，#genre#,#genre#
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-11.ctv
-五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-13.ctv
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-7.m3u8
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-10.m3u8
-五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-15.m3u8
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-6.m3u8
-五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-7.m3u8
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-9.m3u8
-五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-2.m3u8
+五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-7.m3u8
+五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-13.ctv
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-10.m3u8
+五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-2.m3u8
+五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-15.m3u8
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-4.m3u8
-广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-34.ctv
-广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-12.ctv
-广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-33.ctv
-广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-4.ctv
-广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai.m3u8
-广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-2.m3u8
-广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-27.ctv
-广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-1.m3u8
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-31.ctv
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-4.ctv
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-2.m3u8
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-12.ctv
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-32.ctv
+广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-1.m3u8
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-38.ctv
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-6.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-8.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-4.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-2.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-3.m3u8
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-27.ctv
+广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai.m3u8
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-34.ctv
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-9.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-5.m3u8
-山东体育,https://t.freetv.fun/live/shan-dong-ti-yu.m3u8
-山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-19.m3u8
+山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-8.m3u8
+山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-6.m3u8
+山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-3.m3u8
+山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-2.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-7.m3u8
-江苏体育,https://stream1.freetv.fun/jiang-su-ti-yu-1.ctv
+山东体育,https://t.freetv.fun/live/shan-dong-ti-yu.m3u8
+山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-5.m3u8
+山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-19.m3u8
+山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-4.m3u8
 江苏体育,https://stream1.freetv.fun/jiang-su-ti-yu-4.ctv
+江苏体育,https://stream1.freetv.fun/jiang-su-ti-yu-1.ctv
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-8.m3u8
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-4.ctv
 魅力足球,https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-4.m3u8
@@ -69,18 +74,17 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 🪁动画频道,#genre#
 炫动卡通,https://stream1.freetv.fun/ha-ha-xuan-dong-21.m3u8
-炫动卡通,https://stream1.freetv.fun/ha-ha-xuan-dong-29.m3u8
-炫动卡通,https://stream1.freetv.fun/ipv6-ha-ha-xuan-dong-10.m3u8
 炫动卡通,https://stream1.freetv.fun/ipv6-ha-ha-xuan-dong-1.m3u8
-炫动卡通,https://stream1.freetv.fun/ipv6-ha-ha-xuan-dong-8.m3u8
 炫动卡通,https://stream1.freetv.fun/ha-ha-xuan-dong-8.m3u8
+炫动卡通,https://stream1.freetv.fun/ipv6-ha-ha-xuan-dong-8.m3u8
+炫动卡通,https://stream1.freetv.fun/ha-ha-xuan-dong-29.m3u8
 炫动卡通,https://stream1.freetv.fun/ha-ha-xuan-dong-16.m3u8
+炫动卡通,https://stream1.freetv.fun/ipv6-ha-ha-xuan-dong-10.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 经典剧场，#genre#,#genre#
 天龙八部,https://live.ottiptv.cc/yy/1351814644
-鹿鼎记,https://live.ottiptv.cc/yy/28265277
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 西游记,https://lbds.us.ci/26355861
 水浒传,https://live.ottiptv.cc/yy/1353873252
