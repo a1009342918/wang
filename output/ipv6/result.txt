@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-01 22:39:02,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-09-02 07:54:50,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -8,7 +8,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 卫视频道，#genre#,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 湖南卫视,https://live.chinacert.cftest5.cn/zgst/live/hunan4k
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
@@ -20,21 +19,21 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 无线星河,http://r.jdshipin.com/Voac4
 
 体育频道，#genre#,#genre#
-广东体育,https://cdn.qd.je/163189/gdty
-广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
+广东体育,https://cdn.qd.je/163189/gdty
 广东体育,http://r.jdshipin.com/LiYdg
 五星体育,https://cdn.qd.je/163189/wxty
-江苏体育,https://live.chinacert.cftest5.cn/cnmg/live/626064707
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 
 🪁动画频道,#genre#
-七龙珠,https://live.ottiptv.cc/huya/11601966
+新动漫,https://tv.iill.top/migu/xdm&token=3715e56a43ff137fc781c87e8f3354f0b0b81779b6440c51e75f763fd7e1c640
 七龙珠,https://live.metshop.top/huya/11601966
+七龙珠,https://live.ottiptv.cc/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
-猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
+猫和老鼠,https://live.ottiptv.cc/huya/11352879
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 经典剧场，#genre#,#genre#
