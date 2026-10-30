@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-30 00:44:16,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-10-30 09:45:22,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -8,8 +8,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 卫视频道，#genre#,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 
 ☘️安徽频道，#genre#,#genre#
 
@@ -18,15 +18,21 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 
 体育频道，#genre#,#genre#
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
+广东体育,https://cdn.qd.je/163189/gdty
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
+纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 五星体育,https://cdn.qd.je/163189/wxty
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 
 🪁动画频道,#genre#
+新动漫,https://tv.iill.top/migu/xdm&token=5e1e0665ab28c6b396cfe65196076812fddb1605c28ea3a97faf40c908fbfe06
+新动漫,https://tv.iill.top/migu/xdm&token=2f124ab6ac087bc9ff8827f65331bcefcc19f2be5fdb4aa28fe293a39b7c65a6
+新动漫,https://tv.iill.top/migu/xdm&token=7d321042b2f5789d57294578c80935696c5c1326ca57bc4bb58174e879b25dd6
 七龙珠,https://live.ottiptv.cc/huya/11601966
 中华小当家,https://live.ottiptv.cc/huya/11342413
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
@@ -37,10 +43,10 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 笑傲江湖,https://live.ottiptv.cc/huya/23865142
 天龙八部,https://live.ottiptv.cc/huya/20985816
 天龙八部,https://live.ottiptv.cc/yy/1351814644
+鹿鼎记,https://live.ottiptv.cc/yy/28265277
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 三国演义,https://live.ottiptv.cc/huya/11602081
 水浒传,http://live.ottiptv.cc/huya/26355860
-水浒传,https://live.ottiptv.cc/yy/1353873252
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
 封神榜,https://live.ottiptv.cc/huya/29465849
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
