@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-11 01:32:30,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-11-11 09:44:29,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -23,34 +23,34 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 五星体育,https://cdn.qd.je/163189/wxty
 睛彩广场舞,https://iptv.catvod.com/live.php?id=%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
-快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=7a22d188eb752ea0bbbd5b3444407a9e
-快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=4142bcce4a2c9120052c7564ee3d1775
+快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=11ad97ce06f64b9106b1699024dc858f
+快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=17fbb4a8015165698915fd3efbf70d41
 快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=152f2c16f43320a3372a46ca319af6f3
 快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=6136cfc1b6706d34c3724add4eaea596
-快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=17fbb4a8015165698915fd3efbf70d41
-快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=bf7bc04a621c3924640608c244e32d3c
+快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=1fb167374ce63ea549a926cc0ea52281
+快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=b2e76165ab71c9f7ac53e901feafec48
+快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=4142bcce4a2c9120052c7564ee3d1775
 快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=98eac736f3fe42223aa2ee9ac3dc64f9
-快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=11ad97ce06f64b9106b1699024dc858f
-快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=9e2e5a588337b443c455b6b3b1f67e84
 快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=c819fc5b62a228d8f0d1047f72d4bea6
+快乐垂钓,https://iptv.catvod.com/migu?id=961930263&token=7a22d188eb752ea0bbbd5b3444407a9e
 
 🪁动画频道,#genre#
-新动漫,https://iptv.catvod.com/migu?id=961930269&token=15662cd8a905862040da923ead3ffb8f
-新动漫,https://iptv.catvod.com/migu?id=961930269&token=e35b8853eccf380043ab0de3818e841f
+新动漫,https://iptv.catvod.com/migu?id=961930269&token=38a659ad0947ea63cd0cb7e47c0f455b
+新动漫,https://iptv.catvod.com/migu?id=961930269&token=2972385370d8622174482e12bd926b86
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=4dc4bfaa5bdb74c05d454ff4290b43bd
+新动漫,https://iptv.catvod.com/migu?id=961930269&token=15662cd8a905862040da923ead3ffb8f
+新动漫,https://iptv.catvod.com/migu?id=961930269&token=f47a53e10f814dac8bd1d73881ee920e
+新动漫,https://iptv.catvod.com/migu?id=961930269&token=41def6dc14f8576c38c7e7ae00f0f748
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=231cb72c889cf28ee5bce48871596161
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=ac3d766cc20b8ba0e73fed57a9064232
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=7e781a4758e8ec6647b705cd907af1df
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=578ddd9c3a03ce1895e5d813cf6e4411
-新动漫,https://iptv.catvod.com/migu?id=961930269&token=2972385370d8622174482e12bd926b86
-新动漫,https://iptv.catvod.com/migu?id=961930269&token=654faef0f387bbcc55d942a4e97f833b
-新动漫,https://iptv.catvod.com/migu?id=961930269&token=38a659ad0947ea63cd0cb7e47c0f455b
-七龙珠,https://live.metshop.top/huya/11601966
 七龙珠,https://live.ottiptv.cc/huya/11601966
+七龙珠,https://live.metshop.top/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
-猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
+猫和老鼠,https://live.ottiptv.cc/huya/11352879
 经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
@@ -59,8 +59,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 天龙八部,https://live.metshop.top/huya/23903123
 三国演义,https://live.metshop.top/huya/11602081
 三国演义,https://live.ottiptv.cc/huya/11602081
-水浒传,https://live.ottiptv.cc/yy/1353873252
 水浒传,http://live.ottiptv.cc/huya/26355860
+新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
 封神榜,https://live.ottiptv.cc/huya/29465849
-射雕英雄传,https://live.ottiptv.cc/huya/23824164
 射雕英雄传,https://live.metshop.top/huya/23824164
+射雕英雄传,https://live.ottiptv.cc/huya/23824164
